@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Short.png" width="300"> 
+  <img src="Rug.png" width="300"> 
 </p>
 
 # Rug: Random Username Generator for Deno
